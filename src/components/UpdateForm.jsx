@@ -1,5 +1,3 @@
-// import 'bootstrap/dist/css/bootstrap.min.css';
-
 const UpdateForm = ({updateData, changeTask, updateTask, cancelUpdate}) => {
   return (
     <>
